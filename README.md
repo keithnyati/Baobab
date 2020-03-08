@@ -47,7 +47,7 @@ We are using [CircleCI](https://circleci.com/gh/deep-learning-indaba/Baobab) to 
 You don't need to be familar with all of these technologies to work on the project. We've tried to make the application decoupled, especially the front-end and back-end. If you want to work on a front-end task, you need to know a little Javascript, ReactJS and Bootstrap, but don't need to know anything about Flask/SQLAlchemy etc!  
 
 ## Running with Docker
-We are using Docker which means you don't need to install any of the dependencies on your local machine (except for docker itself). If you are already familiar with Docker and the technologies listed above, you can clone the repository to you local machine and bring up the database, back-end and front-end together with:
+We are using Docker which means you don't need to install any of the dependencies on your local machine (except for docker itself). If you are already familiar with Docker and the technologies listed above, you can clone the repository to your local machine and bring up the database, back-end and front-end together with:
 
 ```docker-compose build```
 
